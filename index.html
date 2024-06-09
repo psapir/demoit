@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <style>
+            video#backgroundvid {
+                height: 100%;
+        width: 100%;
+        object-fit: fill; 
+        position: absolute;
+        left: 0px;
+    top: 0px;
+}
+        </style>
+       
+    </head>
+    <body>
+        <script>
+           
+
+document.body.onkeypress = function(e){
+   
+if(e.which == 32){  
+
+    document.getElementById('backgroundvid').play();
+}
+if(e.which == 13){  
+
+    document.getElementById('backgroundvid').pause();
+}
+} 
+
+        </script>
+        <video id="backgroundvid" muted>
+           
+            <source src="demo.mp4" type='video/mp4; codecs="avc1.4D401E, mp4a.40.2"'>
+           
+            </video>
+    </body>
+</html>
