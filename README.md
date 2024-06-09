@@ -11,7 +11,7 @@ This repository contains a boiler plate template to run pre-recorded demo videos
 
 To get started follow these simple steps:
 
-1. Pre-record your demo in full high definition resolution (1920 x 1080) I recommend using an external monitor and using OBS Studio for your recording: https://obsproject.com/
+1. Pre-record your demo in full high definition resolution (1920 x 1080) making sure the aspect ration is wide (16:9) I recommend using an external monitor and using OBS Studio for your recording: https://obsproject.com/
 2. Edit your recording to your liking, I recommend [Clipchamp](https://clipchamp.com/en/windows-video-editor/) for Windows or [iMovie](https://apps.apple.com/us/app/imovie/id377298193) for Mac. 
 3. Save your video as demo.mp4. 
 4. Store the demo.mp4 file and the index.html file locally in your computer in the same location. 
