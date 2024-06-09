@@ -16,5 +16,5 @@ To get started follow these simple steps:
 3. Save your video as demo.mp4. 
 4. Store the demo.mp4 file and the index.html file locally in your computer in the same location. 
 5. Open the index.html file in a new browser window and enter full screen mode in the browser.
-6. Press the Enter key to start the video and the Spacebar key to pause the video when needed. 
+6. Press the Spacebar key to start the video and the Enter key to pause the video when needed. 
 7. To refresh the video, exit full screen mode and refresh your browser window.
