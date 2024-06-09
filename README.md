@@ -3,7 +3,7 @@
 
 Doing live demos can be a risky challenge. You rely on internet connectivity, the platform working at the moment of the demo, loading times and more. 
 
-The goal of a demo should be to demonstrate your solution or ideas and not that what you are doing is actually in real time.
+The goal of a demo should be to demonstrate your solution or ideas and not that what you are demoing is actually in real time.
 
 For that reason, many years ago I switched my approach to pre-recorded demos. While I still have to prepare the demo, record it and practice, this solution takes away the preassure of relying on external factors that have nothing to do with my demo but can drammatically change the quality of a presentation.
 
